@@ -1,3 +1,8 @@
+C# | .NET | Console Application
+
+![C#](https://img.shields.io/badge/language-C%23-blue)
+![.NET](https://img.shields.io/badge/framework-.NET-purple)
+
 # Deck Stats
 
 Ett C# konsolprogram för att läsa textfiler och skriva ut statistik för Magic: The Gathering.
